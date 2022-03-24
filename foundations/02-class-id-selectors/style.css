@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#even {
+  color: blue;
+  font-size: 36px;
+}
+ .odder {
+   font-size: 24px;
+}
+#even-4 {
+  background-color: rgb(128, 255, 128);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/*just try from now on to order the css better in order ie keep the odds
+up top and grouped then do the evens*/
